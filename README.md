@@ -21,7 +21,8 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Descrição
+Este projeto foi criado com a intenção de centralizar todo o aprendizado sobre NestJs e afins, facilitando o versionamento de novos aprendizados e para recrutadores ou outras pessoas que também estejam interessadas no conteúdo
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
